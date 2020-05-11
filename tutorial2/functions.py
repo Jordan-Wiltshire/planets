@@ -15,5 +15,4 @@ def conc(list):
 	sentance = ""
 	for words in list:
 		sentance = sentance + " " + words
-	print(sentance) 
-
+	print(sentance)
